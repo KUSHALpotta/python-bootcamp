@@ -1,2 +1,8 @@
 Copy paste the all the commands that you executed on IDLE:
-
+print(273.15+25)
+print(911-314)
+print(3*19)
+print(2020/17)
+print(2020//19)
+print(2021%21)
+print(2**7)
